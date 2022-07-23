@@ -1,1 +1,4 @@
-| ## Block-level elements | | | ## Inline elements | |
+| **Block-level elements** |     |     | **Inline elements** |     |
+| ------------------------ | --- | --- | ------------------- | --- |
+
+|
