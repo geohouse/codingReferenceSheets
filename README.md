@@ -3,7 +3,7 @@ Different helpful reference sheets related to web design and programming
 
 | **testing** | **testing more** |
 | --------- | ---------- |
-| &lttesting&gt | |
+| `<testing> | |
 
 | First Header  | Second Header |
 | ------------- | ------------- |
