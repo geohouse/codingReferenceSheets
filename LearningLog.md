@@ -1,3 +1,4 @@
+- Splice when done on an input parameter to a function still operates on the variable that was provided on the function argument (need to provide a spread [...<array>] argument to the function instead)
 *Aug 12*
 - In React, set state vars for all parts of a form, then another state var that bundles the snapshots of the others upon form submit
 - dynamic imports return a promise
